@@ -1,0 +1,10 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'environment://themes/aiconcept06'
+         - 'user://themes/metricalo-base'
+
+enabled: true
